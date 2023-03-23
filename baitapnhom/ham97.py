@@ -1,7 +1,7 @@
 import random
 
-from ham94 import tao_pasword
-from ham96 import checkpass
+from Bai94 import tao_pasword
+from Bai96 import checkpass
 
 def main():
     test = 0
