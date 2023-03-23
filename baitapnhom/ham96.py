@@ -1,20 +1,20 @@
-
+import string
 def checkpass(p):
-    chu_hoa=False
-    chu_thuong=False
+    hoa=False
+    thuong=False
     so=False
     # if len(p)<8:
     # return False
     # 
     for ch in p:
         if ch>="A" and ch<="Z":
-            chu_hoa=True
+            hoa=True
         elif ch>="a" and ch<="z":
-            chu_thuong=True
+            thuong=True
         elif ch>="0" and ch<="9":
             so=True
       #    return hoa and thuong and so
-    if len(p)>=8 and chu_hoa and chu_thuong and so:
+    if len(p)>=8 and hoa and thuong and so:
         return True
     return False
 
