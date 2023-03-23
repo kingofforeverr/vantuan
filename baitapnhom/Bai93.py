@@ -1,4 +1,4 @@
-from ham92 import kiemtrasonguyento
+from Bai92 import kiemtrasonguyento
 import math
 
 def songuyentotieptheo(n):
