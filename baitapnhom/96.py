@@ -1,4 +1,4 @@
-import string
+
 def checkpass(p):
     hoa=False
     thuong=False
