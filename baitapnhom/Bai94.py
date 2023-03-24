@@ -7,9 +7,9 @@ def tao_pasword():
    
    char=[chr(i) for i in range(33,127)]
    
-   password =''.join(random.choice(char) for i in range(lenght) )
+   mat_khau =''.join(random.choice(char) for i in range(lenght) )
    
-   return password
+   return mat_khau
 
 def main():
     print("Your pass:",tao_pasword())

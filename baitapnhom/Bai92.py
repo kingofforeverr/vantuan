@@ -1,7 +1,7 @@
 import math
 
 def kiemtrasonguyento(n):
-    """Kiểm tra xem một số nguyên có phải là số nguyên tố hay không."""
+    
     if n < 2:
         return False
     for i in range(2, int(math.sqrt(n)) + 1):
