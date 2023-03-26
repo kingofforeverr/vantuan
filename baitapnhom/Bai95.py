@@ -8,7 +8,7 @@ def taobiensoxe():
     if random.random() < 0.5:
         
         chucai = ''.join(random.choices(t, k=3))
-        # Tạo ba số ngẫu nhiên
+      
         so = ''.join(random.choices(s, k=3))
         return f'{chucai}{so}'
         
