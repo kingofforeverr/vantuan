@@ -11,7 +11,7 @@ def songuyentotieptheo(n):
             return snt
         snt += 1
 
-# Chương trình chính
+
 n = int(input("Nhập một số nguyên: "))
 t = songuyentotieptheo(n)
 print(f"Số nguyên tố đầu tiên lớn hơn {n} là {t}.")
