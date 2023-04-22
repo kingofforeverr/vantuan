@@ -4,12 +4,12 @@ def checkpass(p):
     thuong=False
     so=False
     
-    for ch in p:
-        if ch>="A" and ch<="Z":
+    for i in p:
+        if "A"<= i<="Z":
             hoa=True
-        elif ch>="a" and ch<="z":
+        elif "a"<=i<="z":
             thuong=True
-        elif ch>="0" and ch<="9":
+        elif "0"<=i<="9":
             so=True
      
     if len(p)>=8 and hoa and thuong and so:
