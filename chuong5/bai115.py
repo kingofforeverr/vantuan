@@ -17,3 +17,4 @@ words = text.split()
 for word in words:
     print(pig_latin(word), end=" ")
 
+a=input()
