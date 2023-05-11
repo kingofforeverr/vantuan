@@ -1,0 +1,6 @@
+string = input()
+words = string.split(",")
+unique = list(set(words))
+sort = sorted(unique)
+result = ",".join(sort)
+print(result)
