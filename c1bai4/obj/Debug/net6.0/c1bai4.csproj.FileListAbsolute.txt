@@ -1,0 +1,15 @@
+F:\oop\c1bai4\bin\Debug\net6.0\c1bai4.exe
+F:\oop\c1bai4\bin\Debug\net6.0\c1bai4.deps.json
+F:\oop\c1bai4\bin\Debug\net6.0\c1bai4.runtimeconfig.json
+F:\oop\c1bai4\bin\Debug\net6.0\c1bai4.dll
+F:\oop\c1bai4\bin\Debug\net6.0\c1bai4.pdb
+F:\oop\c1bai4\obj\Debug\net6.0\c1bai4.csproj.AssemblyReference.cache
+F:\oop\c1bai4\obj\Debug\net6.0\c1bai4.GeneratedMSBuildEditorConfig.editorconfig
+F:\oop\c1bai4\obj\Debug\net6.0\c1bai4.AssemblyInfoInputs.cache
+F:\oop\c1bai4\obj\Debug\net6.0\c1bai4.AssemblyInfo.cs
+F:\oop\c1bai4\obj\Debug\net6.0\c1bai4.csproj.CoreCompileInputs.cache
+F:\oop\c1bai4\obj\Debug\net6.0\c1bai4.dll
+F:\oop\c1bai4\obj\Debug\net6.0\refint\c1bai4.dll
+F:\oop\c1bai4\obj\Debug\net6.0\c1bai4.pdb
+F:\oop\c1bai4\obj\Debug\net6.0\c1bai4.genruntimeconfig.cache
+F:\oop\c1bai4\obj\Debug\net6.0\ref\c1bai4.dll
