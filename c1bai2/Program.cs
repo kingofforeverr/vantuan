@@ -26,26 +26,26 @@ namespace SimpleCal
 
         static void ThucHien()
         {
-            double result;
+            double ketqua;
             switch (toanTu)
             {
                 case '+':
-                    result = a + b;
-                    InKQ(result);
+                    ketqua = a + b;
+                    InKQ(ketqua);
                     break;
                 case '-':
-                    result = a - b;
-                    InKQ(result);
+                    ketqua = a - b;
+                    InKQ(ketqua);
                     break;
                 case '*':
-                    result = a * b;
-                    InKQ(result);
+                    ketqua = a * b;
+                    InKQ(ketqua);
                     break;
                 case '/':
                     if (b != 0)
                     {
-                        result = a / b;
-                        InKQ(result);
+                        ketqua = a / b;
+                        InKQ(ketqua);
                     }
                     else
                     {
@@ -57,9 +57,9 @@ namespace SimpleCal
                     break;
             }
         }
-        static void InKQ(double result)
+        static void InKQ(double ketqua)
         {
-            Console.WriteLine($"Ket qua: {a} {toanTu} {b} = {result}");
+            Console.WriteLine($"Ket qua: {a} {toanTu} {b} = {ketqua}");
         }
          static void Main(string[] args)
         {
