@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\oop\\c1bai2\\c1bai2.csproj",
+      "projectUniqueName": "F:\\code\\vantuan\\c1bai2\\c1bai2.csproj",
       "projectName": "c1bai2",
-      "projectPath": "F:\\oop\\c1bai2\\c1bai2.csproj",
+      "projectPath": "F:\\code\\vantuan\\c1bai2\\c1bai2.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\oop\\c1bai2\\obj\\",
+      "outputPath": "F:\\code\\vantuan\\c1bai2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

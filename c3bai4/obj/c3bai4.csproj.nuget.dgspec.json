@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\oop\\c3bai4\\c3bai4.csproj": {}
+    "F:\\code\\vantuan\\c3bai4\\c3bai4.csproj": {}
   },
   "projects": {
-    "F:\\oop\\c3bai4\\c3bai4.csproj": {
+    "F:\\code\\vantuan\\c3bai4\\c3bai4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\oop\\c3bai4\\c3bai4.csproj",
+        "projectUniqueName": "F:\\code\\vantuan\\c3bai4\\c3bai4.csproj",
         "projectName": "c3bai4",
-        "projectPath": "F:\\oop\\c3bai4\\c3bai4.csproj",
+        "projectPath": "F:\\code\\vantuan\\c3bai4\\c3bai4.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\oop\\c3bai4\\obj\\",
+        "outputPath": "F:\\code\\vantuan\\c3bai4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
